@@ -22,10 +22,6 @@ RegisterNumber:   25011776
 */
 
 
-Program to implement the linear regression using gradient descent.
-Developed by: A.Abinesh
-RegisterNumber:  25017255
-
 
 import numpy as np 
 import pandas as pd 
